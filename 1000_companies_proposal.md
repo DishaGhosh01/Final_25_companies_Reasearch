@@ -1,10 +1,10 @@
-# Question 2: The 1000-Company Proposal
+#  The 1000-Company Proposal
 
 ## Goal
 
 Build a verified list of **1,000 ICP-qualified companies within one month** by combining structured data sources, AI-assisted research, and manual quality checks. The focus is on quality over quantity, ensuring every shortlisted company meets the eligibility criteria and is backed by reliable evidence.
 
-# Question 1: Sourcing Methods (Beyond Google Search)
+# Sourcing Methods (Beyond Google Search)
 
 To find companies matching the Federer profile across India, I would combine structured databases, government records, industry-specific sources, and AI-assisted research instead of relying only on Google searches.
 
